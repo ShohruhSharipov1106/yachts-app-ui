@@ -1,7 +1,7 @@
-import 'dart:ui';
+
 
 import 'package:flutter/material.dart';
-import 'package:yachts_app/screens/payment_page.dart';
+import 'package:yachts_app_ui/screens/payment_page.dart';
 
 class YachtPage extends StatelessWidget {
   String? kelganYachtName, kelganYachtPrice;

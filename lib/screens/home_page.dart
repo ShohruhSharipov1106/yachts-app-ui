@@ -1,6 +1,6 @@
-import 'package:flutter/cupertino.dart';
+
 import 'package:flutter/material.dart';
-import 'package:yachts_app/screens/yacht_page.dart';
+import 'package:yachts_app_ui/screens/yacht_page.dart';
 
 class HomePage extends StatefulWidget {
   @override
